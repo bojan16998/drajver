@@ -1,11 +1,5 @@
 /* Kernel headers */
 
-A
-C
-D
-D
-D
-C
 #include <linux/kernel.h>
 #include <linux/string.h>
 #include <linux/module.h>
